@@ -8,8 +8,3 @@ if country == '台灣':
 		print('恭喜你可以去考駕照了')
 	else:
 		print('你還沒到可以考駕照的年齡')
-elif country == '美國':
-	if age >= 16:
-		print('恭喜你可以去考駕照了')
-	else:
-		print('你還沒到可以考駕照的年齡')
